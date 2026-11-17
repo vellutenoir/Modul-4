@@ -1,0 +1,12 @@
+name: modul4_oop_dart_707012400012
+description: Praktikum Modul IV Dasar-Dasar Pemrograman Dart (OOP) - Vayola Aura Mecca (707012400012)
+version: 1.0.0
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+dev_dependencies:
+  flutter_lints: ^6.0.0

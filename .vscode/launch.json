@@ -1,0 +1,41 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Soal 1 - Inheritance & Overriding",
+      "request": "launch",
+      "type": "dart",
+      "program": "bin/soal1_inheritance.dart"
+    },
+    {
+      "name": "Soal 2 - Encapsulation",
+      "request": "launch",
+      "type": "dart",
+      "program": "bin/soal2_encapsulation.dart"
+    },
+    {
+      "name": "Soal 3 - Polymorphism",
+      "request": "launch",
+      "type": "dart",
+      "program": "bin/soal3_polymorphism.dart"
+    },
+    {
+      "name": "Soal 4 - Aggregation & Composition",
+      "request": "launch",
+      "type": "dart",
+      "program": "bin/soal4_association.dart"
+    },
+    {
+      "name": "Soal 5 - Studi Kasus Tebas Tebang Pohon (OOP)",
+      "request": "launch",
+      "type": "dart",
+      "program": "bin/soal5_tebas_pohon.dart"
+    },
+    {
+      "name": "Flutter Main UI (Runner)",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/main.dart"
+    }
+  ]
+}
